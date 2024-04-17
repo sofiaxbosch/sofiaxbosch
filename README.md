@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and docker**
 
-- 👯 I’m looking to collaborate on **the development, implementation and monitoring of advanced machine learning models.**
+- 👯 I’m looking to collaborate in **the development, implementation and monitoring of machine learning models and knowledge of deep learning techniques.**
 
 - 📫 How to reach me **sofiaboschpastor@gmail.com**
 
